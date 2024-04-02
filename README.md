@@ -2,7 +2,7 @@
 
 This repository contains a solution for integrating multiple systems using Apache Camel, a Java-based integration framework, along with Apache ActiveMQ, an open-source message broker. The solution implements various Enterprise Application Integration patterns to facilitate communication between different components.
 
-The integration scenario revolves around Dive-Surf Inc., a company specializing in surfboards and diving suits. The integrated systems enable customers to place orders for surfboards and diving suits seamlessly.
+The integration scenario revolves around Dive-Surf Co., a company specializing in surfboards and diving suits. The integrated systems enable customers to place orders for surfboards and diving suits seamlessly.
 
 ## Overview
 
